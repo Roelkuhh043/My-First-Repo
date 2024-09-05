@@ -10,4 +10,4 @@ Now with html
 
 <a href="www.zuyd.nl">de website van zuyd</a>
 
-Hier volgt een link naar de [website van nu.nl](https://nu.nl), ga snel kijken!
+Hier volgt een link naar de [website van zuyd.nl](https://zuyd.nl), ga snel kijken!
