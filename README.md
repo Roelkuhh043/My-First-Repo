@@ -8,6 +8,4 @@ Now with html
 <br>
 <img src="repo foto.jpg" alt="test repo plaatje" width = "200">
 
-<a href="www.zuyd.nl">de website van zuyd</a>
-
 Hier volgt een link naar de [website van zuyd.nl](https://zuyd.nl), ga snel kijken!
