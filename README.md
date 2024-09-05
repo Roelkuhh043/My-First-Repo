@@ -6,6 +6,6 @@ WELCOME TO THIS TEST REPO
 
 Now with html
 <br>
-<img src="repo foto.jpg" width = "100">
+<img src="repo foto.jpg" alt="test repo plaatje" width = "200">
 
 <a href="www.zuyd.nl">de website van zuyd</a>
