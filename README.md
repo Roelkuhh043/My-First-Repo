@@ -5,4 +5,4 @@ WELCOME TO THIS TEST REPO
 
 
 Now with html
-<img src="repo foto.jpg">
+<img src="repo foto.jpg" width = "100">
