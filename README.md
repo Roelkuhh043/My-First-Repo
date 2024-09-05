@@ -5,4 +5,4 @@ WELCOME TO THIS TEST REPO
 
 
 Now with html
-<img src="">
+<img src="repo foto.jpg">
